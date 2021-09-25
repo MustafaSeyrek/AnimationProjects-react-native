@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Alert, TouchableOpacity, Animated, View, Text } from "react-native";
 
-/*import Dondur from './components/Dondur';
+import Dondur from './components/Dondur';
 import DondurDurdur from './components/DondurDurdur';//döndür ve durdur butonları var
 import StateKullanimi from './components/StateKullanimi';//sayıyı artıp azaltan butonlar
 import CiftYon from './components/CiftYon';//butonlara göre yönü değişen hareket
